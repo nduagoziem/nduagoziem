@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nduagoziem
 - 👀 I’m interested in full stack web development (might change soon, lol 😂)
-- 🌱 I’m currently learning and building javascript (with it's frameworks) applications
-- 💞️ I’m looking to collaborate on javascript or any javascript framework project
+- 🌱 I’m currently learning and building javascript (vue) applications
+- 💞️ I’m looking to collaborate on javascript or any javascript vue project
 - 📫 How to reach me; anduagoziem@gmail.com
 
 <!---
