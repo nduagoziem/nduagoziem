@@ -1,7 +1,7 @@
-# Hi, I'm Nduagoziem 👋
+> Oh Look, A bug 🙃
 
 <div align="center">
-  <img src="https://media.giphy.com/media/d3kE9n0qntPTq/giphy.gif" width="300" alt="Server Rack Monitoring">
+   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWF4bXJtcTQ4NzJsaWs5NXdnOGF5Yzg4bTNza3A3eGRudzlxcTM3MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xaO6TmgQmKEQ4516sE/giphy.gif" width="300" alt="Coding Animation">
   
   **Full-Stack Developer | Vue.js | Laravel | Let's Ship 🚀**
 </div>
@@ -10,59 +10,43 @@
 
 ## About Me
 
-Full-stack developer passionate about building scalable applications with Vue.js and Laravel. I focus on clean code, performance optimization, and creating seamless user experiences.
+Passionate self-taught software engineer experienced in crafting scalable Application Programming
+Interfaces (APIs) with Laravel and designing responsive User Interfaces (UIs) with Vue/Nuxt. Eager
+to contribute innovative solutions and continue growing in the field.
 
 ---
 
 ## 🛠️ Tech Stack
+> Some of my tools. Currently learning Go by the way 😉  
 
-**Frontend:** 
-<img src="https://skillicons.dev/icons?i=vuejs,javascript,html,css" />
 
-**Backend:** 
-<img src="https://skillicons.dev/icons?i=laravel,php" />
+**Frontend:**
+
+<img src="https://skillicons.dev/icons?i=vuejs,javascript,html,css,nuxt,typescript,tailwind,bootstrap" />
+
+**Backend:**
+
+<img src="https://skillicons.dev/icons?i=laravel,php,go" />
 
 **Databases:** 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
 
 **DevOps & Cloud:** 
-<img src="https://skillicons.dev/icons?i=docker,aws,git" />
-- Oracle Cloud
-- Railway
+
+<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,linux" />
+
 
 ---
-
-## 📊 GitHub Stats
+<div align="center">
+    <b><i>Got something in mind? Hit me up! 🚀</i></b>
+</div>
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nduagoziem&show_icons=true&theme=radical&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nduagoziem&layout=pie&theme=radical&hide_border=true)
-  
-  ![Profile views](https://komarev.com/ghpvc/?username=nduagoziem&label=Profile%20views&color=0e75b6&style=flat-square)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anduagoziem@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anointed-osondu-78b92b28a/)
   
 </div>
 
 ---
-
-## 💼 Featured Projects
-
-*Add your best projects here with descriptions and links*
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-  
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-  
-</div>
-
----
-
-<div align="center">
-  <b>Open to collaborations and interesting projects! 🚀</b>
-</div>
