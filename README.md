@@ -3,7 +3,6 @@
 <div align="center">
    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWF4bXJtcTQ4NzJsaWs5NXdnOGF5Yzg4bTNza3A3eGRudzlxcTM3MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xaO6TmgQmKEQ4516sE/giphy.gif" width="300" alt="Coding Animation">
   
-  **Full-Stack Developer | Vue.js | Laravel | Let's Ship 🚀**
 </div>
 
 ---
